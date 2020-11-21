@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: possessed by #100daysofflutter you can expect new repositories every now and then 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anjan713](https://github.com/anuraghazra/github-readme-stats)
