@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Instagram
+- 🔭 I’m currently working in RedCarpet
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with DevOps
